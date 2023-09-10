@@ -3,7 +3,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=02235at82rirqdp126nz02qpe)
 
-- 🔭 I’m currently working on Wineget, Android Development(Custom ROM and Kernel for Realme GT Neo 2), Agromate(an IoT greenhouse that use AWS to communicate with user created for the HackersGen Contest, <a href="https://github.com/agromate-devs">Agromate</a>) and other work that you can find on my profile
+- 🔭 I’m currently working on Wineget, Android Development(Custom ROM and Kernel for Realme GT Neo 2), Agromate(an IoT greenhouse that use AWS to communicate with user created for the HackersGen Contest, [Agromate](https://github.com/agromate-devs)) and other work that you can find on my profile
 - 🌱 I’m currently learning at Istituto Agnelli
 - 📫 How to reach me: @Andreock on Telegram
 - 👨‍💻 Technology and language that I know:  C/C++ , Python , C#(.NET, WinForms and Blazor) , Dart(and Flutter) , Rust(also Rocket, Tauri and AWS SDK) , JS , NS , Svelte/SvelteKit , Express.JS , Typescript, Java/Kotlin and SQL
