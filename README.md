@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrea Canale (Andrea055), a 17 yo guy from Italy who is studing IT at Istituto Agnelli
+### Hi there 👋 I'm Andrea Canale (Andrea055), a 18 yo guy from Italy who is studing IT at Istituto Agnelli
 ### Welcome to my profile
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=02235at82rirqdp126nz02qpe)
