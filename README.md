@@ -3,9 +3,9 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=02235at82rirqdp126nz02qpe)
 
-- 🔭 I’m currently working on Wineget, Android Development(Custom ROM, Kernel and application for Bitra, Realme GT Neo 2) and other work that you can find on my profile
+- 🔭 I’m currently working on Wineget, Android Development(Custom ROM and Kernel for Realme GT Neo 2), Agromate(an IoT greenhouse that use AWS to communicate with user, [Agromate]([https://link-url-here.org](https://github.com/agromate-devs) ) and other work that you can find on my profile
 - 🌱 I’m currently learning at Istituto Agnelli
 - 📫 How to reach me: @Andreock on Telegram
-- 👨‍💻 Technology and language that I know:  C/C++ , Python , C#(.NET, WinForms) , Dart(and Flutter) , Rust(also Rocket and Tauri) , JS , NS , Svelte/SvelteKit , Express.JS , Typescript, Java and SQL
+- 👨‍💻 Technology and language that I know:  C/C++ , Python , C#(.NET, WinForms and Blazor) , Dart(and Flutter) , Rust(also Rocket, Tauri and AWS SDK) , JS , NS , Svelte/SvelteKit , Express.JS , Typescript, Java/Kotlin and SQL
 - 🐧 I love Linux and all Open Source project. Linus Torvalds is my hero.
 - 💻 My currently setup: Dell Vostro 5620 with Arch Linux(I use arch btw),Xeon E5-2689 home server with 3TB Raid and 32Gb Ram 
