@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Andrea Canale (Andrea055), a 18 yo guy from Italy who is studing IT at Istituto Agnelli
 ### Welcome to my profile
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=02235at82rirqdp126nz02qpe)
-
 - 🔭 I’m currently working on Wineget, Android Development(Custom ROM and Kernel for Realme GT Neo 2), Agromate(an IoT greenhouse that use AWS to communicate with user created for the HackersGen Contest, [Agromate](https://github.com/agromate-devs)) and other work that you can find on my profile
 - 🌱 I’m currently learning at Istituto Agnelli
 - 📫 How to reach me: @Andreock on Telegram
