@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning at Istituto Agnelli
 - 📫 How to reach me: @Andreock on Telegram
 - 👨‍💻 Technology and language that I know:  C/C++ , Python , C#(.NET, WinForms and Blazor) , Dart(and Flutter) , Rust(also Rocket, Tauri and AWS SDK) , JS , NS , Svelte/SvelteKit , Express.JS , Typescript, Java/Kotlin and SQL
-- 🐧 I love Linux(despite I don't use it in desktop) and all Open Source project. Linus Torvalds is my hero.
+- 🐧 I love Linux and FOSS philosophy in general. Linus Torvalds is my hero.
 - 💻 My currently setup: HP Envy x360 16-ad0000
