@@ -5,4 +5,4 @@
 - 🌱 I’m currently studying computer science at University of Turin
 - 👨‍💻 Technology and language that I know:  C/C++ , Python , C#(.NET, WinForms and Blazor) , Dart(and Flutter) , Rust(also Rocket, Tauri and AWS SDK) , JS , NS , Svelte/SvelteKit , Express.JS , Typescript, Java/Kotlin and SQL
 - 🐧 I love Linux and FOSS philosophy in general. Linus Torvalds is my hero.
-- 💻 My currently setup: HP Envy x360 16-ad0000
+- 💻 My currently setup: Thinpad L16 Gen 1
